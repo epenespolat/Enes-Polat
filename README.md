@@ -1,7 +1,6 @@
 <div>
     <div align=center>
         <img src="https://user-images.githubusercontent.com/111289754/216737761-887afb14-8333-4236-8e5a-444971888fbe.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-
     <div align=center>
         <a href="https://www.linkedin.com/in/epenespolat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         <a href ="https://www.instagram.com/ep.enespolat/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
