@@ -24,7 +24,7 @@
             </strong>
         </p>
                  
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,net,cs,c,spring,postgres,mysql,js,react,html,css,md)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,spring,js,react,python,net,cs,c,spring,postgres,mysql,js,react,html,css,md)](https://skills.thijs.gg)
 
         
 <div
